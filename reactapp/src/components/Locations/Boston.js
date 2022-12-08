@@ -36,20 +36,6 @@ function TeamMeals() {
         // navigate('/Boston1')
     }
 
-    // const handleClick = (product_name) => {
-    //   // Get the value of the div
-    //   console.log(product_name)
-    //   // const divValue = document.getElementById({product.name}).value;
-
-    //   // Update the value of the "data" state variable with the value of the div
-    //   // setData(divValue);
-
-    //   // Send a request to the API with the data from the div
-    //   fetch('https://my-api.com/endpoint', {
-    //     method: 'POST',
-    //     body: JSON.stringify({ name: product_name }),
-    //   });
-    // };
 
 
     const Headers = {
@@ -115,10 +101,6 @@ function TeamMeals() {
                 </div>
                 <br></br><br></br>
             </nav>
-
-
-
-
 
             <div className="Servicesheader">
 
