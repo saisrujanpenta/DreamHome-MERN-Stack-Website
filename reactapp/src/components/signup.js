@@ -34,6 +34,7 @@ export default class SignUp extends Component {
       .then((data) => {
         console.log(data, "userRegister");
         alert("User registration successful");
+        alert("Click on Login now!");
       });
   }
   render() {
