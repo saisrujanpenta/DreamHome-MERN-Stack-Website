@@ -1,1 +1,1 @@
-# INFO6150-FinalProject_Groupno10
+# DreamHome - MERN Stack Website
